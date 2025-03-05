@@ -32,7 +32,7 @@ Built with **TensorFlow & Keras**:
 
 The graph below compares the actual vs. predicted stock prices for **Apple (AAPL)** and **Reliance (RELIANCE)**.
 
-![Stock Price Prediction](images/stock_prediction.png)
+![Stock Price Prediction](result/result.png)
 
 ## Challenges  
 - Data quality & handling market volatility  
